@@ -1,0 +1,14 @@
+D:\Mobile\Note\Note\Note\bin\Debug\netstandard2.0\Note.deps.json
+D:\Mobile\Note\Note\Note\bin\Debug\netstandard2.0\Note.dll
+D:\Mobile\Note\Note\Note\bin\Debug\netstandard2.0\ref\Note.dll
+D:\Mobile\Note\Note\Note\bin\Debug\netstandard2.0\Note.pdb
+D:\Mobile\Note\Note\Note\obj\Debug\netstandard2.0\Note.csprojAssemblyReference.cache
+D:\Mobile\Note\Note\Note\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Mobile\Note\Note\Note\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Mobile\Note\Note\Note\obj\Debug\netstandard2.0\Note.AssemblyInfoInputs.cache
+D:\Mobile\Note\Note\Note\obj\Debug\netstandard2.0\Note.AssemblyInfo.cs
+D:\Mobile\Note\Note\Note\obj\Debug\netstandard2.0\Note.csproj.CoreCompileInputs.cache
+D:\Mobile\Note\Note\Note\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Mobile\Note\Note\Note\obj\Debug\netstandard2.0\Note.dll
+D:\Mobile\Note\Note\Note\obj\Debug\netstandard2.0\ref\Note.dll
+D:\Mobile\Note\Note\Note\obj\Debug\netstandard2.0\Note.pdb
